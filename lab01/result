@@ -1,0 +1,40 @@
+==================
+test 1:
+student:
+45
+
+grader:
+45
+
+==================
+test 2:
+student:
+0
+
+grader:
+0
+
+==================
+test 3:
+student:
+50
+
+grader:
+50
+
+==================
+test 4:
+student:
+-1
+
+grader:
+-1
+
+==================
+test 5:
+student:
+998
+
+grader:
+998
+
