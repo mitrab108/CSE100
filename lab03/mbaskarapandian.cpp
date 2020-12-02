@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 //Got Help from old lab submission
+//lab did not work
 void merge(int arr[], int left, int mid, int right){
     int temp = mid-left+1;
     int temp2 = right - mid;
